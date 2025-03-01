@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='kagglehelper',
+    name='kagglefilehelper',
     version='0.0.1',
-    description='a pip-installable package example',
+    description='a pip-installable package kagglefilehelper',
     license='MIT',
     packages=find_packages(),
     author='Fatih Karagoz',
