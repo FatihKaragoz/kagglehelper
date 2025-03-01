@@ -1,0 +1,39 @@
+# Genel sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Node.js projeleri için
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+
+# Python projeleri için
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Java projeleri için
+*.class
+target/
+*.jar
+*.war
+
+# IDE ve Editör dosyaları
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Log dosyaları
+logs/
+*.log
+
+# Çalışma ortamı dosyaları
+.env
+*.local
+
