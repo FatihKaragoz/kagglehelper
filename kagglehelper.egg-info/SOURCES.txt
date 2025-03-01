@@ -1,10 +1,10 @@
 README.md
 pyproject.toml
 setup.py
-kagglehelper/__init__.py
-kagglehelper/getDataSets.py
-kagglehelper.egg-info/PKG-INFO
-kagglehelper.egg-info/SOURCES.txt
-kagglehelper.egg-info/dependency_links.txt
-kagglehelper.egg-info/requires.txt
-kagglehelper.egg-info/top_level.txt
+kagglehelptool/__init__.py
+kagglehelptool/getDataSets.py
+kagglehelptool.egg-info/PKG-INFO
+kagglehelptool.egg-info/SOURCES.txt
+kagglehelptool.egg-info/dependency_links.txt
+kagglehelptool.egg-info/requires.txt
+kagglehelptool.egg-info/top_level.txt

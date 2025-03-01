@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+kagglefilehelper.egg-info/PKG-INFO
+kagglefilehelper.egg-info/SOURCES.txt
+kagglefilehelper.egg-info/dependency_links.txt
+kagglefilehelper.egg-info/requires.txt
+kagglefilehelper.egg-info/top_level.txt
+kagglehelptool/__init__.py
+kagglehelptool/getDataSets.py
